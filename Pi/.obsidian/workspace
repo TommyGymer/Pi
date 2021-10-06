@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "55ebc6bd946c857c",
+    "type": "split",
+    "children": [
+      {
+        "id": "adec3d56f67b8160",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "DHCP server.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "80a0c97b851e7a14",
+    "type": "split",
+    "children": [
+      {
+        "id": "9828d3e01db7c541",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e6e90330a22a8d11",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e659173c9ccb7f3c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a82237a60b48399d",
+    "type": "split",
+    "children": [
+      {
+        "id": "f5041d0833b95c12",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49fb533a5694957c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DHCP server.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "adec3d56f67b8160",
+  "lastOpenFiles": [
+    "DHCP server.md",
+    "Untitled.md"
+  ]
+}
