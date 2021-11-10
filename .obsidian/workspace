@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "05a4e113f842f972",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ed3c60fc9b75f64",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Pi/VPN server.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cb465dcfc03ceebe",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5b1c51b8d057415",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eeac86f2cb42f81e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9df4459419297b43",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1af1e53c727ef758",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d5a42d427600790",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75b3815e8d7f224c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Pi/VPN server.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4ed3c60fc9b75f64",
+  "lastOpenFiles": [
+    "Pi/VPN server.md",
+    "Pi/File server.md",
+    "Pi/DHCP server.md"
+  ]
+}
